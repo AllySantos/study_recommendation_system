@@ -1,3 +1,5 @@
+"""Package configuration for the study recommendation system project."""
+
 from setuptools import find_packages, setup
 
 setup(
